@@ -35,7 +35,7 @@ public class MainActivityFragment extends Fragment {
                 "Today - Sunny - 88/63",
                 "Tomorrow - Foggy - 70/60",
                 "Wednesday - Cloudy - 65/50",
-                "Thursday - Asteroids - 85/65",
+                "Thursday - Asteroids - 85/63",
                 "Friday - HELP TRAPPED IN WEATHERSTATION - 60/45",
                 "Saturday - Sunny - 88/75",
                 "Sunday - Heavy Rain - 76/63"};
